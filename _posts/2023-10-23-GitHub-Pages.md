@@ -38,7 +38,12 @@ To create your own homepage using GitHub Pages, follow these simple steps:
 1. Edit the Configuration File: Open the `_config.yml` file and customize it according to your preferences.
 
 ```YAML
-title: Jing Gong (龚敬)logo: /assets/img/logo.jpgdescription: An undergraduate at the School of Software Engineering, Sun Yat-sen University.show_downloads: falsegoogle_analytics:theme: jekyll-theme-minimal
+title: Jing Gong (龚敬)
+logo: /assets/img/logo.jpg
+description: An undergraduate at the School of Software Engineering, Sun Yat-sen University.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
 ```
 
 1. Edit the Index File: Open the `index.md` file, keep the first three lines as they are, and add your self-introduction in Markdown format.
