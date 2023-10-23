@@ -57,3 +57,5 @@ layout: default
 ```
 
 Step 9. Publish Your Homepage: Once you're done editing, your homepage is ready to be published!
+
+> If there are any parts in the blog that I haven't explained clearly, please feel free to contact me.
