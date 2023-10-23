@@ -19,23 +19,23 @@ To create your own homepage using GitHub Pages, follow these simple steps:
 
 ![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=MDgyZDk2MzlmODgyMjE3YzE2NjNhYzUyYWM5Y2RkYjNfdUZTb2ZDMnVjVlFwSUNYV1BJWmZIZ01uZ2RLUnBWYWJfVG9rZW46TU5IR2I5U3djb0tqMnd4MGdmbGNmT3IybldmXzE2OTgwNjgxNTU6MTY5ODA3MTc1NV9WNA)
 
-1. Create a New Repository: Click the "+" icon to create a new repository.
+3. Create a New Repository: Click the "+" icon to create a new repository.
 
 ![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=OTkyNzUzZjkzMGFkYTI1MTg2ZDdmNmM4MTI3N2U0MWFfaTNGZ0E1Sjd0Nk50VDRUbTJYdVN5ZldZRmZPbTdHUW1fVG9rZW46U3VPZWJ0NGw1b3doUDh4ZVMwamNXSkczblRiXzE2OTgwNjgxNTU6MTY5ODA3MTc1NV9WNA)
 
-1. Name your repository in the format `<username>.github.io`.
+4. Name your repository in the format `<username>.github.io`.
 
 ![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWQ5ZGFiZDcwODAwNjI3N2NlZDFjYmUzMjk2Njg5YTlfaklGV1RyOU1vMGljZWgybTBwVFB0VkZCUUdybXhJc3lfVG9rZW46RVBERGIxWlBOb2ZKV2p4SGlTeWN1UzBHbm1lXzE2OTgwNjgxNTU6MTY5ODA3MTc1NV9WNA)
 
-1. Select a Template: Choose a template you like from [GitHub Pages Themes](https://pages.github.com/themes/).
+5. Select a Template: Choose a template you like from [GitHub Pages Themes](https://pages.github.com/themes/).
 
 ![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=ZWZkMzQwM2YxZmE4ZGY5OTUxM2NiYzQwYzc1M2NhYTRfVjFjWXV1S0N4aVdEa2RUV21zOXlLbFZSbGtLWW1uT25fVG9rZW46Sm9xSGJDNERub2YyQXZ4Mk5uWmNwMERwbkdiXzE2OTgwNjgxNTU6MTY5ODA3MTc1NV9WNA)
 
-1. Clone the Theme Repository: Clone your selected theme repository into your newly created `<username>.github.io` repository.
+6. Clone the Theme Repository: Clone your selected theme repository into your newly created `<username>.github.io` repository.
 
 ![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=YTNjZjY0NTc0NzIwMTJhMmE4YTc5NGYyNDI5YjI5YjBfWkRKaU1XWUlBSWtSeVRYVGRhZHNPVVlCRWRSVm84TmhfVG9rZW46TXFNbmJJYzZCbzhoSTd4aU8wVWNReXRObm9oXzE2OTgwNjgxNTU6MTY5ODA3MTc1NV9WNA)
 
-1. Edit the Configuration File: Open the `_config.yml` file and customize it according to your preferences.
+7. Edit the Configuration File: Open the `_config.yml` file and customize it according to your preferences.
 
 ```YAML
 title: Jing Gong (龚敬)
@@ -46,7 +46,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 ```
 
-1. Edit the Index File: Open the `index.md` file, keep the first three lines as they are, and add your self-introduction in Markdown format.
+8. Edit the Index File: Open the `index.md` file, keep the first three lines as they are, and add your self-introduction in Markdown format.
 
 ```Markdown
 ---
@@ -56,4 +56,4 @@ layout: default
 ...
 ```
 
-1. Publish Your Homepage: Once you're done editing, your homepage is ready to be published!
+9. Publish Your Homepage: Once you're done editing, your homepage is ready to be published!
