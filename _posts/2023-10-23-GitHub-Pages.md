@@ -51,7 +51,8 @@ Step 8: Edit the Index File: Open the `index.md` file, keep the first three line
 ```Markdown
 ---
 layout: default
----# About me
+---
+# About me
 ...
 ```
 
