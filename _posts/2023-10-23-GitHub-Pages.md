@@ -18,23 +18,23 @@ Step 1: Watch Tutorial(optional): Begin by watching this helpful tutorial on You
 
 Step 2: Create GitHub Account: Go to [GitHub](https://github.com/) and sign up for an account if you don't already have one.
 
-![img](/assets/img/posts/20231023/signUp.png)
+![img](./assets/img/posts/20231023/signUp.png)
 
 Step 3: Create a New Repository: Click the "+" icon to create a new repository.
 
-![img](/assets/img/posts/20231023/create.png)
+![img](./assets/img/posts/20231023/create.png)
 
 Step 4: Name your repository in the format `<username>.github.io`.
 
-![img](/assets/img/posts/20231023/createRepo.png)
+![img](./assets/img/posts/20231023/createRepo.png)
 
 Step 5: Select a Template: Choose a template you like from [GitHub Pages Themes](https://pages.github.com/themes/).
 
-![img](/assets/img/posts/20231023/theme.png)
+![img](./assets/img/posts/20231023/theme.png)
 
 Step 6: Clone the Theme Repository: Clone your selected theme repository into your newly created `<username>.github.io` repository.
 
-![img](/assets/img/posts/20231023/edit.png)
+![img](./assets/img/posts/20231023/edit.png)
 
 Step 7: Edit the Configuration File: Open the `_config.yml` file and customize it according to your preferences.
 
