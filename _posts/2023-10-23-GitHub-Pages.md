@@ -15,25 +15,26 @@ description: "By following these steps, you will have your own homepage hosted o
 To create your own homepage using GitHub Pages, follow these simple steps:
 
 Step 1: Watch Tutorial(optional): Begin by watching this helpful tutorial on YouTube: [Link to Video](https://www.youtube.com/watch?v=o5g-lUuFgpg&t=611s).
+
 Step 2: Create GitHub Account: Go to [GitHub](https://github.com/) and sign up for an account if you don't already have one.
 
-![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRkY2FlZmQ5MDM5NzM2OTZmNTkzN2FkNTMxODI4NzVfdTVOTWVBQVZPclUzMWJFN0c0YmdjWkc5eDhhd3BnOHFfVG9rZW46TU5IR2I5U3djb0tqMnd4MGdmbGNmT3IybldmXzE2OTgwNzE5ODY6MTY5ODA3NTU4Nl9WNA)
+![img](/assets/img/posts/20231023/signUp.png)
 
 Step 3: Create a New Repository: Click the "+" icon to create a new repository.
 
-![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=NmFlYzU3MGIyMzQ4OWQwMWRjYjhjMzZmN2Y3YTZhMWJfS0dEQUdocDFPdURJWXNCbm9VYkg1Q2xuSVVSemtwRW1fVG9rZW46U3VPZWJ0NGw1b3doUDh4ZVMwamNXSkczblRiXzE2OTgwNzE5ODY6MTY5ODA3NTU4Nl9WNA)
+![img](/assets/img/posts/20231023/create.png)
 
 Step 4: Name your repository in the format `<username>.github.io`.
 
-![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=NWQ1MzE4ZTlkODkxMDM1MmE0ZjkxMzc3MDVkMTc4OWNfdnpTamhhRU1DcTVwVGZjUXVmenpqM096ZndVVzZMcEVfVG9rZW46RVBERGIxWlBOb2ZKV2p4SGlTeWN1UzBHbm1lXzE2OTgwNzE5ODY6MTY5ODA3NTU4Nl9WNA)
+![img](/assets/img/posts/20231023/createRepo.png)
 
 Step 5: Select a Template: Choose a template you like from [GitHub Pages Themes](https://pages.github.com/themes/).
 
-![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=NDk4MzQyMjMwMzA3ODY0YmYwNmZhN2EzMTA2YjdkMGVfa3RJNzJrU3lmMUhubk5zY2tjbWlma0J0Rnk2eW15WUVfVG9rZW46Sm9xSGJDNERub2YyQXZ4Mk5uWmNwMERwbkdiXzE2OTgwNzE5ODY6MTY5ODA3NTU4Nl9WNA)
+![img](/assets/img/posts/20231023/theme.png)
 
 Step 6: Clone the Theme Repository: Clone your selected theme repository into your newly created `<username>.github.io` repository.
 
-![img](https://zx0tlxjwmkv.feishu.cn/space/api/box/stream/download/asynccode/?code=NDIyNzNhMWYyNGRhZmI4M2FkNmE2ZWYwZGZkMGQ1Y2JfbVNIOFJ6QmFIU2dpU0JydDdqb2ZzRmVDVHp4ekY3Tk1fVG9rZW46TXFNbmJJYzZCbzhoSTd4aU8wVWNReXRObm9oXzE2OTgwNzE5ODY6MTY5ODA3NTU4Nl9WNA)
+![img](/assets/img/posts/20231023/edit.png)
 
 Step 7: Edit the Configuration File: Open the `_config.yml` file and customize it according to your preferences.
 
