@@ -5,7 +5,7 @@ show_date: true
 title: "Creating Your Personal Homepage with GitHub Pages!"
 date: 2023-10-23
 img: posts/20231023/myHomepage.png
-tags: [guide,github]
+tags: [tutorial,github]
 category: opinion
 author: Miking(Jing Gong)
 description: "By following these steps, you will have your own homepage hosted on GitHub Pages. This guide provides a simple and fast way to create a homepage, without the need to set up a local development environment."
