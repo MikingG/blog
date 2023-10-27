@@ -33,7 +33,9 @@ Review: The spirit of 'Chin UP' truly resonates with me, particularly because of
 
 专辑设计是由有“香港Figure教父”之称的艺术家Michael Lau倾力操刀制作，以一个在玩攀登架的俏皮小孩呈现CHIN UP的核心精神，比喻快乐忘形，哪管天多高地多厚，CHIN UP就爬过了。实体包装像一本插图画册，内含有百幅玩味设计草图，共有十款不同的“书脊”设计以供选择。
 
-Review: The image of the joyous child featured on the album cover resonates deeply with me. To be more specific, it conjures up dreams of reclaiming that blissful, childlike happiness. In a way, I see a reflection of my own inner happy child in it.
+Review: The image of the joyous child featured on the album cover resonates deeply with me. To be more specific, it conjures up dreams of reclaiming that blissful, childlike happiness. In a way, I see a reflection of my own inner happy child in it. 
+
+##曲目简介
 
 #### **《尘大师》：看轻重**
 
