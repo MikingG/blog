@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "A Review of Eason Chan's Latest Album 'Keep Your Chin Up'"
 date: 2023-10-27
-img: posts/20231027/Eason_Chan's_CHIN_UP.jpg
+img: assets/posts/20231027/Eason_Chan's_CHIN_UP.jpg
 tags: [thoughts]
 author: Miking(Jing Gong)
 description: "A fantastic album!"
@@ -35,7 +35,7 @@ Review: The spirit of 'Chin UP' truly resonates with me, particularly because of
 
 Review: The image of the joyous child featured on the album cover resonates deeply with me. To be more specific, it conjures up dreams of reclaiming that blissful, childlike happiness. In a way, I see a reflection of my own inner happy child in it. 
 
-##曲目简介
+## 曲目简介
 
 #### **《尘大师》：看轻重**
 
