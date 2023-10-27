@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "A Review of Eason Chan's Latest Album 'Keep Your Chin Up'"
 date: 2023-10-27
-img: posts/20231027/Eason_Chan's_CHIN_UP.jpg
+img: posts/20231027/CHIN_UP.jpg
 tags: [thoughts]
 author: Miking(Jing Gong)
 description: "A fantastic album!"
