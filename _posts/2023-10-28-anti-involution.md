@@ -8,7 +8,7 @@ description: "我生而为人，如果我要变成一个考试机器，那真的
 img: posts/20231028/Marx.jpg
 tags: [Marxism]
 author: Miking(Jing Gong)
-github: amaynez/TicTacToe/
+github: MikingG/
 toc: yes # leave empty or erase for no TOC
 ---
 ### 从马克思主义的角度定义内卷
