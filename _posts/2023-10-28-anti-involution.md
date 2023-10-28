@@ -5,7 +5,7 @@ show_date: true
 title:  我的马克思主义反内卷观
 date:   2023-10-28
 description: "我生而为人，如果我要变成一个考试机器，那真的就不如生块叉烧好过了"
-img: posts/20210318/TicTacToeSml.jpg
+img: posts/20231028/Marx.jpg
 tags: [Marxism]
 author: Miking(Jing Gong)
 github: amaynez/TicTacToe/
