@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  金曲奖获奖歌曲
+title:  “好歌献给你”金曲奖获奖歌曲
 date:   2023-10-29
 description: 好歌献给你.
 img: posts/20231029/GoldMelody.png
